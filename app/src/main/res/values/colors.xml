@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estados del autómata -->
+    <color name="estado_q0">#3949AB</color>       <!-- azul índigo: estado inicial -->
+    <color name="estado_q1">#2E7D32</color>        <!-- verde oscuro: aceptación -->
+    <color name="estado_trap">#C62828</color>      <!-- rojo oscuro: trampa -->
+
+    <!-- Banners de resultado -->
+    <color name="resultado_ok_fondo">#E8F5E9</color>
+    <color name="resultado_ok_texto">#1B5E20</color>
+    <color name="resultado_err_fondo">#FFEBEE</color>
+    <color name="resultado_err_texto">#B71C1C</color>
+</resources>
